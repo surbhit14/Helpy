@@ -11,7 +11,7 @@ It also has sign language recognition feature which converts sign language and d
 ![image](https://user-images.githubusercontent.com/82264758/151252216-cf7a93c2-ea4c-4660-8098-a103a6b4df14.png)
 
 
-Google Drive Video Link:https://drive.google.com/file/d/1Kh-ZkrQMj_RBniMOypFCxEmym2IrAa_P/view
+Google Drive Video Link: https://drive.google.com/file/d/1Kh-ZkrQMj_RBniMOypFCxEmym2IrAa_P/view?usp=sharing
 
 Challenges I ran into
 Some of the challenges I ran into were
