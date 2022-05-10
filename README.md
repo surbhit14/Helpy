@@ -3,7 +3,7 @@
 
 # Helpy
 Helpy is a platform that helps deaf and mute people to express their views and points to other people in a meeting in a much better way.
-Mute people can quickly draw shapes and other text to expalin what they are trying to say and similarly this can be used to expain something to deaf people more efficiently.It has various functionalities like drawing shapes,text and free draw on video.
+Mute people can quickly draw shapes and other text to explain what they are trying to say and similarly this can be used to explain something to deaf people more efficiently.It has various functionalities like drawing shapes,text and free draw on video.
 It also has sign language recognition feature which converts sign language and displays text on screen/video.
 
 ![image](https://user-images.githubusercontent.com/82264758/151252075-512d0e2e-8ad1-4428-9f5d-459e27cda574.png)
